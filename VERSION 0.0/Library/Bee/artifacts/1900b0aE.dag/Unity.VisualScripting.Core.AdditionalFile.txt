@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 C:\GITHUB REPOSITORY\ForFightsSake\VERSION 0.0
+=======
+C:\Github\ForFightsSake\VERSION 0.0
+>>>>>>> Stashed changes
